@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development apps
 - 🌱 I’m currently learning how to become a full stack web developer
 - 💞️ I’m looking to collaborate on web deloping projects (JS/HTML/CSS/REACT)
-- 📫 How to reach me ...
+
 
 <!---
 KostasSot/KostasSot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
