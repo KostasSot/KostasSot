@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KostasSot
 - 👀 I’m interested in web development apps
 - 🌱 I’m currently learning how to become a full stack web developer
-- 💞️ I’m looking to collaborate on web deloping projects (JS/HTML/CSS/REACT)
+- 💞️ I’m looking to collaborate on web deloping projects (JS/HTML/CSS/PHP/LARAVEL)
 
 
 <!---
